@@ -19,8 +19,8 @@
   opacity :0.7;
   background-color: rgb(0, 0, 0);
   color: white;
-  text-decoration-color:(#076603);
-  box-shadow: 3px 3px 5px rgba(7, 102, 3, 0.596);
+  text-decoration-color:(#0A4500);
+  box-shadow: 3px 3px 5px rgba(54, 176, 42, 0.596);
   text-decoration: underline;
 }
   
@@ -45,8 +45,7 @@
   opacity :0.7;
   background-color: rgb(0, 0, 0);
   color: white;
-  text-decoration-color: rgb(7, 102, 3);
-  box-shadow: 3px 3px 5px rgba(7, 102, 3, 0.596);
+  box-shadow: 3px 3px 5px rgba(54, 176, 42, 0.596);
   text-decoration: underline;
 }
 
@@ -72,8 +71,7 @@
   opacity :0.7;
   background-color: rgb(0, 0, 0);
   color: white;
-  text-decoration-color: rgb(7, 102, 3);
-  box-shadow: 3px 3px 5px rgba(7, 102, 3, 0.596);
+  box-shadow: 3px 3px 5px rgba(54, 176, 42, 0.596);
   text-decoration: underline;
 }
 
