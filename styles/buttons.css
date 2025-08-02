@@ -3,8 +3,8 @@
   color: #D2D9D2;
   border: none;
   height: 90px;
-  width: 20vh;
-  font-size: 20px;
+  width: 10vw;
+  font-size: calc(10px + 0.5vw);
   border-radius: 10px;
   cursor: pointer;
   font-family: poppins, sans-serif;
@@ -32,8 +32,8 @@
   color: #D2D9D2;
   border: none;
   height: 90px;
-  width: 20vh;
-  font-size: 20px;
+  width: 10vw;
+  font-size: calc(10px + 0.5vw);
   border-radius: 10px;
   cursor: pointer;
   font-family: poppins, sans-serif;
@@ -57,8 +57,8 @@
   color: #D2D9D2;
   border: none;
   height: 90px;
-  width: 20vh;
-  font-size: 20px;
+  width: 10vw;
+  font-size: calc(10px + 0.5vw);
   border-radius: 10px;
   cursor: pointer;
   font-family: poppins, sans-serif;
