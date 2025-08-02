@@ -3,7 +3,7 @@
   color: #D2D9D2;
   border: none;
   height: 90px;
-  width: 180px;
+  width: 20vh;
   font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
@@ -23,7 +23,7 @@
 }
   
 .projects-button:active {
-  color: rgb(7, 102, 3);
+  color: #36B02A;
   background-color: rgb(0, 0, 0);
 }
 
@@ -32,7 +32,7 @@
   color: #D2D9D2;
   border: none;
   height: 90px;
-  width: 180px;
+  width: 20vh;
   font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
@@ -48,7 +48,7 @@
 }
 
 .aboutme-button:active {
-  color: rgb(7, 102, 3);
+  color: #36B02A;
   background-color: rgb(0, 0, 0);
 }
 
@@ -57,7 +57,7 @@
   color: #D2D9D2;
   border: none;
   height: 90px;
-  width: 180px;
+  width: 20vh;
   font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
@@ -74,6 +74,6 @@
 }
 
 .home-button:active {
-  color: rgb(7, 102, 3);
+  color: #36B02A;
   background-color: rgb(0, 0, 0);
 }
