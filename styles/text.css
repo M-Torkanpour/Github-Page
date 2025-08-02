@@ -9,11 +9,15 @@
 
 .name {
   font-family: Hedvig Letters Serif, serif;
-  font-size: calc(28px + 1.2vw);
+  font-size: calc(28px + 1vw);
   color: #454A43;
   text-align: center;
-  width: 100%;
 }
 
+@media screen and (max-height: 660px) {
+ .name {
+    font-size: calc(28px + 1vh);
+  }
+}
 
 
