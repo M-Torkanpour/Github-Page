@@ -7,7 +7,7 @@
   font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
-  font-family: Hedvig Letters Serif, serif;
+  font-family: poppins, sans-serif;
   transition: opacity 0.3s ease,
   background-color 0.3s ease, color 0.3s ease;
   transition: box-shadow 0.3s ease;
@@ -36,7 +36,7 @@
   font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
-  font-family: Hedvig Letters Serif, serif;
+  font-family: poppins, sans-serif;
 }
 
 .aboutme-button:hover  {
@@ -61,7 +61,7 @@
   font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
-  font-family: Hedvig Letters Serif, serif;
+  font-family: poppins, sans-serif;
   margin-top: 5px;
 }
 
