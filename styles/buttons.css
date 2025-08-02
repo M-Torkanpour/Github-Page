@@ -1,10 +1,10 @@
 .projects-button {
   background-color: #131212; 
-  color: rgb(252, 255, 255);
+  color: #D2D9D2;
   border: none;
   height: 90px;
   width: 180px;
-  font-size: 16px;
+  font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
   font-family: Hedvig Letters Serif, serif;
@@ -29,11 +29,11 @@
 
 .aboutme-button {
   background-color: #131212; 
-  color: rgb(255, 255, 255);
+  color: #D2D9D2;
   border: none;
   height: 90px;
   width: 180px;
-  font-size: 16px;
+  font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
   font-family: Hedvig Letters Serif, serif;
@@ -54,11 +54,11 @@
 
 .home-button {
   background-color: #131212; 
-  color: rgb(255, 255, 255);
+  color: #D2D9D2;
   border: none;
   height: 90px;
   width: 180px;
-  font-size: 16px;
+  font-size: 20px;
   border-radius: 10px;
   cursor: pointer;
   font-family: Hedvig Letters Serif, serif;
